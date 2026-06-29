@@ -30,10 +30,12 @@ Citizens open topics, debate, and refine societal issues through collective inte
 
 ## Documentation
 
-- [Technical Whitepaper v2.0](docs/P3_Tech_Whitepaper_v2.0.pdf) — Full architecture, smart contract specs, privacy model, integration surface
-- [Live one-pager](https://sbgoodgit.github.io/P3/) — Public-facing introduction to P3
-
-Policy brief (for municipalities, ministries, CPB) available on request via GitHub Issues.
+| Document | Status | Access |
+|---|---|---|
+| [Technical Whitepaper v2.0](docs/P3_Tech_Whitepaper_v2.0.pdf) | Public | This repository |
+| [Live one-pager](https://sbgoodgit.github.io/P3/) | Public | GitHub Pages |
+| Policy Brief (NL) — for municipalities, ministries, CPB | Available on request | [Request via Issues](https://github.com/SBGoodGit/P3/issues/new?title=Policy+Brief+Request&body=Hi%2C+I%27d+like+to+receive+the+P3+Policy+Brief.) |
+| Master Whitepaper (NL) — full research document | Available on request | [Request via Issues](https://github.com/SBGoodGit/P3/issues/new?title=Master+Whitepaper+Request&body=Hi%2C+I%27d+like+to+receive+the+P3+Master+Whitepaper.) |
 
 ---
 
